@@ -1,0 +1,19 @@
+{
+  "name": "simple-page-checker",
+  "version": "1.0.0",
+  "description": "Check pages for general errors",
+  "repository": "http://github.com/james2doyle/simple-page-checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "James Doyle <james2doyle@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "consola": "^1.4.1",
+    "puppeteer": "^1.6.2"
+  }
+}
